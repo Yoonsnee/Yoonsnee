@@ -1,7 +1,7 @@
 ### Welcome to Yoonsnee 👋
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoonsnee&show_icons=true&theme=radical)
 -------------------------------------------------------------------- 
-
+<div align="center">
 # 📚skills
  
 > # <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> 
@@ -15,7 +15,9 @@
 > # <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> 
 > ⭐️ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> ⭐️
 
-<center>🥸 Yoonsnee 👩🏻‍💻</center>             
+# 🥸 Yoonsnee 👩🏻‍💻
+ 
+</div>
 
 
  
