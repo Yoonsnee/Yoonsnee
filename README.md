@@ -12,7 +12,7 @@
 > # <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> 
 
 # prograaming language
-> # <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+> # <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript"/>
 
 # Frontend
 
