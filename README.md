@@ -6,8 +6,8 @@
 <div align="center">
  
 
-<h3> # 🔡 prograaming language </h3>
-> # <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
+<h2> # 🔡 prograaming language </h2>
+<h3> # <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> </h3>
 
 # 📊 Data anaylistics & Visualizing
 ># <img src="https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
